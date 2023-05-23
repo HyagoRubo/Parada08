@@ -1,0 +1,28 @@
+table{
+    margin: auto;
+    text-align: center;
+    border-spacing: 0px;
+    width: 600px;
+    height: 400px;
+}
+
+table, td, th{
+    border: 1px dashed black;
+}
+
+td, th{
+    width: 120px;
+    height: 30px;
+}
+
+th{
+    background-color: rgb(40, 114, 170);
+    color: white;
+    font-size: 23px;
+    font-family: 'Inconsolata', monospace;
+}
+
+td{
+    font-family: 'Inconsolata', monospace;
+    font-size: 17px;
+}
